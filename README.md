@@ -5,8 +5,8 @@
 ### Hi there 👋
 I am George, nice to have you here!
 
-- 🔭 I’m currently working on improving my skills in Python, C and Javascript
-- 👯 I’m looking to collaborate on projects in Software Engineering, Data Science, Data Analysis and Frontend development fields
+- 🔭 I am a budding ML Engineer with interests in Python, C++, and Matlab projects
+- 👯 I’m looking to collaborate on projects in Machine Learning and Deep Learning, Data Science, Software Engineering
 - 📫 I always look for opportunities to develop myself
 - 😄 I love writing codes
 - ⚡ I love traveling 
